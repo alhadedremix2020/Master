@@ -204,5 +204,5 @@ bct=100;msgt=100;$('.fr.borderg a').text(' عمر الحديد')
 $( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 0px; width: 0px;">');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="https://www.sudfachat.com/sico/1580237645774.png" width="70%" style="">`)
 $('div#l1 button.btn.btn-primary')['bind']('click', function () {
-    alert('اهلا وسهلا بكم في شات عشقتك ❤️ سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول')
+    alert('اهلا وسهلا بكم في شات مَأّجِيِّګ ❤️ سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول')
 });

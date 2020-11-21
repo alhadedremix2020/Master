@@ -193,3 +193,16 @@ div.dpnl.bg {width:312px!important;}
 </style>`).insertBefore("body");
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value="" maxlength="10"><i class="fa fa-eye-slash" aria-hidden="true">`)
 $(`<font size="4" color="#ffffff"><marquee direction="right" width="100%" height="20" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5" style="height: 20px; width: 100%;background-color:#383029;">جولات هذا الاسبوع : يوم الاثنين تعرف على اسم الاغنيه من الموسيقى . . يوم الأربعاء اجمل صوره من تصويرك الخاص . . يوم الجمعة أجمل تعليق على الصورة || جميع الجولات على بطائق امازون و ابل ستور او اشتراك نتفليكس  </marquee></font>`).insertBefore('.nav-tabs');
+function pmsg(){var m=prompt('الرجاء الالتزام بقواعد الاعلانات الاعلانات فقط للمسابقات والادعية ليسة للمزح صاحب الشات عمر الحديد',"");if(m==''||m==null){return;}
+m=m.split('\n').join('');if(m=="%0A"||m=="%0a"||m==''||m=='\n'){return;}
+send("pmsg",{msg:m});}
+$("div#tlogins input").attr("maxlength",10),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
+$(".fr.co").hide();
+$(".fl.mini.u-co").hide();
+$(`<center><div><div width="99.5%" id="" /font/div/div><center>`).insertBefore('#d2');
+bct=100;msgt=100;$('.fr.borderg a').text(' عمر الحديد')
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 0px; width: 0px;">');
+$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="https://www.sudfachat.com/sico/1580237645774.png" width="70%" style="">`)
+$('div#l1 button.btn.btn-primary')['bind']('click', function () {
+    alert('اهلا وسهلا بكم في شات عشقتك ❤️ سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول')
+});
